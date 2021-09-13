@@ -1,0 +1,12 @@
+{
+ 		"type": "loadingmod:loading_smelting",
+	  "ingredient": {
+				"item": "minecraft:diamond"
+		  },
+	  "result":  {
+	  		"item" : "loadingmod:ore_block",
+				"count": 1 
+		},
+	  "experience": 0.15,
+	  "cookingtime": 5
+}

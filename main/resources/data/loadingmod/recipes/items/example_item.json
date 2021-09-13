@@ -1,0 +1,12 @@
+{
+ 		"type": "loadingmod:loading_smelting",
+	  "ingredient": {
+				"item": "minecraft:redstone"
+		  },
+	  "result": {
+	  		"item" : "loadingmod:example_item",
+				"count": 1
+		},
+	  "experience": 0.15,
+	  "cookingtime": 5
+}

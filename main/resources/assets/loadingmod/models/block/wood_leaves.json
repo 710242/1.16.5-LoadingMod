@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "loadingmod:blocks/wood_leaves"
+  }
+}

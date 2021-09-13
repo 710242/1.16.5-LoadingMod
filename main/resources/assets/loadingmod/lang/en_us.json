@@ -1,0 +1,18 @@
+{
+  "item.loadingmod.example_item":"example_item",
+ 	"block.loadingmod.ore_block":"ore_block",
+ 	"block.loadingmod.click_block":"click_block",
+ 	
+ 	"item.loadingmod.unique_item":"unique_item",
+ 	"block.loadingmod.click_block":"table_container",
+ 	
+ 	"block.loadingmod.wood_log":"wood_log",
+ 	"block.loadingmod.stripped_wood_log":"stripped_wood_log",
+ 	"block.loadingmod.wood_wood":"wood_wood",
+ 	"block.loadingmod.stripped_wood_wood":"stripped_wood_wood",
+ 	"block.loadingmod.wood_plank":"wood_plank",
+ 	"block.loadingmod.wood_leaves":"wood_leaves",
+ 	"block.loadingmod.wood_sapling":"wood_sapling",
+ 	
+  "itemGroup.LoadingModTab":"LoadingModTab"
+}

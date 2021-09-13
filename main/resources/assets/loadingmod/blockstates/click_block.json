@@ -1,0 +1,6 @@
+{
+	"variants" : { 
+		"" : { "model" : "loadingmod:block/click_block"}
+	}
+ 
+}

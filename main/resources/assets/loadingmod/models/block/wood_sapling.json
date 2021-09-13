@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "loadingmod:blocks/wood_sapling"
+  }
+}
